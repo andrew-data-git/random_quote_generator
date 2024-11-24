@@ -10,7 +10,7 @@
 Pull in an image and quote with requests.
 Use PIL to make a composite image.
 
-![](https://github.com/andrew-data-git/repo/blob/main/demo.gif)
+![](https://github.com/andrew-data-git/random_quote_generator/blob/main/demo.gif)
 
 ## Features
 
