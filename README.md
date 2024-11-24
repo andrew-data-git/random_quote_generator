@@ -5,12 +5,13 @@
 
 | Date Started | Date Completed |
 | ------ | ------ |
-| 24/11/2024 | --/--/2024 |
+| 24/11/2024 | 24/11/2024 |
 
-Brief explaination of the method.
+Pull in an image and quote with requests.
+Use PIL to make a composite image.
 
 ![](https://github.com/andrew-data-git/repo/blob/main/demo.gif)
 
 ## Features
 
-- feature1
+- Wraps text and saves a new 'inspiration.png' image
